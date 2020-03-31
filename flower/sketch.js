@@ -8,7 +8,7 @@ var time = 0;
 var Fibonacci = [];
 
 function setup() {
-  createCanvas(windowHeight,windowWidth);                       // create a  canvas
+  createCanvas(windowWidth,windowHeight);                       // create a  canvas
   noStroke();                                   // disables drawing an outline
 }
 
